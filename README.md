@@ -13,16 +13,30 @@ Hello, I'm Hamza Abd El-Baset, a dedicated Software Engineer with a background i
 
 Here are some of the technologies and tools I work with:
 
-- **Front-end**: HTML5, CSS3, JavaScript, React.js
-- **Back-end**: Node.js, MySQL, MongoDB
-- **Operating Systems**: Linux, Windows
+- **Front-end**: 
+  - ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- **Back-end**: 
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Version Control**: 
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Operating Systems**: 
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Soft Skills**: Problem Solving, Critical Thinking, Teamwork
 
 ## Projects
 
 I enjoy coding and have been part of several projects, such as:
 
-- [E-Commerce Website, using Vanilla JavaScript]: A feature-rich e-commerce website with user registration, shopping cart, and more.
-- [To-do Web Application, using React.js]: A simple web application for creating and managing to-do lists.
+- [E-Commerce Website, using Vanilla JavaScript](#): A feature-rich e-commerce website with user registration, shopping cart, and more.
+- [To-do Web Application, using React.js](#): A simple web application for creating and managing to-do lists.
+- [Todo-app-api using Express.js](#): A back-end API for a to-do application created with Express.js.
+
 
 Feel free to explore these projects, provide feedback, or collaborate if you find them interesting.
 
