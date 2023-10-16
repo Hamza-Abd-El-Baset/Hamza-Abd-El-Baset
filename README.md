@@ -41,9 +41,12 @@ Here are some of the technologies and tools I work with:
 
 I enjoy coding and have been part of several projects, such as:
 
-- [E-Commerce Website, using Vanilla JavaScript](#): A feature-rich e-commerce website with user registration, shopping cart, and more.
-- [To-do Web Application, using React.js](#): A simple web application for creating and managing to-do lists.
-- [Todo-app-api using Express.js](#): A back-end API for a to-do application created with Express.js.
+- [E-Commerce Website, using Vanilla JavaScript](https://github.com/shaban-007/E-Comamrce):
+  A feature-rich e-commerce website with user registration, shopping cart, and more.
+- [To-do Web Application, using React.js](https://github.com/Hamza-Abd-El-Baset/ToDo-App-Using-React):
+  A simple web application for creating and managing to-do lists.
+- [Todo-app-api using Express.js](https://github.com/Hamza-Abd-El-Baset/Todo-App-API):
+  A back-end API for a to-do application created with Express.js.
 
 
 Feel free to explore these projects, provide feedback, or collaborate if you find them interesting.
