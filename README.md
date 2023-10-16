@@ -55,12 +55,10 @@ Feel free to explore these projects, provide feedback, or collaborate if you fin
 
 I'm always open to new opportunities and collaborations. Whether it's about a new project, tech discussion, or networking, don't hesitate to reach out:
 
-- 📧 Email: [hamza.abdelbaset.elgebaly@gmail.com](mailto:hamza.abdelbaset.elgebaly@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/hamza-abd-el-baset/](https://www.linkedin.com/in/hamza-abd-el-baset/)
-### 🔗Contact Me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hamza.abdelbaset.elgebaly@gmail.com)](mailto:hamza.abdelbaset.elgebaly@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+)](https://www.linkedin.com/in/hamza-abd-el-baset/)
 [![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amrsayed74)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
