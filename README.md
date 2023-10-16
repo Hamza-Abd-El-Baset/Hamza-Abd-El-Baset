@@ -55,8 +55,10 @@ Feel free to explore these projects, provide feedback, or collaborate if you fin
 
 I'm always open to new opportunities and collaborations. Whether it's about a new project, tech discussion, or networking, don't hesitate to reach out:
 
-- 📧 Email: hamza.abdelbaset.elgebaly@gmail.com
+- 📧 Email: hamza.abdelbaset.elgebaly@gmail.com(mailto:your.email@example.com)
 - 💬 LinkedIn: https://www.linkedin.com/in/hamza-abd-el-baset/
+- ✉ Email: [Your Email Address]
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 
 ## Stay in Touch
 
