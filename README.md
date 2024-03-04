@@ -41,13 +41,15 @@ Here are some of the technologies and tools I work with:
 
 I enjoy coding and have been part of several projects, such as:
 
-- [E-Commerce Website, using Vanilla JavaScript](https://github.com/shaban-007/E-Comamrce):
-  A feature-rich e-commerce website with user registration, shopping cart, and more.
-- [To-do Web Application, using React.js](https://github.com/Hamza-Abd-El-Baset/ToDo-App-Using-React):
-  A simple web application for creating and managing to-do lists.
-- [Todo-app-api using Express.js](https://github.com/Hamza-Abd-El-Baset/Todo-App-API):
-  A back-end API for a to-do application created with Express.js.
-
+- [School Management System, using Node.js](https://github.com/Hamza-Abd-El-Baset/School-Management-API)):
+  A backend solution developed using Node.js, Express.js, and MongoDB, designed to manage a group of schools.
+- [Blog App API, using Node.js](https://github.com/Hamza-Abd-El-Baset/Blog-App-API):
+  A backend API developed for a MERN stack blog application, serves as the foundation for the entire system,
+  providing essential functionalities and managing data interactions.
+  Developed using Node.js and Express.js, it offers a robust API that interacts with a MongoDB database.
+- [Blog App Web Application, using React.js](https://github.com/Hamza-Abd-El-Baset/Blog-App-Front):
+  A Blog Application developed using React.js, Redux Toolkit, and other libraries and components.
+  It provides an intuitive user interface that interacts with the backend API to deliver a seamless blogging experience.
 
 Feel free to explore these projects, provide feedback, or collaborate if you find them interesting.
 
