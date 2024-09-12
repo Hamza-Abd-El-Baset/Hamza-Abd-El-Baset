@@ -41,7 +41,7 @@ Here are some of the technologies and tools I work with:
 
 I enjoy coding and have been part of several projects, such as:
 
-- [School Management System, using Node.js](https://github.com/Hamza-Abd-El-Baset/School-Management-API)):
+- [School Management System, using Node.js](https://github.com/Hamza-Abd-El-Baset/School-Management-API):
   A backend solution developed using Node.js, Express.js, and MongoDB, designed to manage a group of schools.
 - [Blog App API, using Node.js](https://github.com/Hamza-Abd-El-Baset/Blog-App-API):
   A backend API developed for a MERN stack blog application, serves as the foundation for the entire system,
